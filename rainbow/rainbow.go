@@ -3,8 +3,9 @@ package rainbow
 
 import (
 	"bytes"
-	"github.com/aybabtme/rgbterm"
 	"io"
+
+	"github.com/shdlabs/rgbterm"
 )
 
 // Rainbow prints all the colors of the rainbow! All 232 of them colors!
